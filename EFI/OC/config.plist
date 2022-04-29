@@ -425,7 +425,7 @@
 				<key>Comment</key>
 				<string>V2.1.0</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirportItlwm</string>
 				<key>MaxKernel</key>
@@ -461,7 +461,7 @@
 				<key>Comment</key>
 				<string>V1.2.3</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCDellSensors</string>
 				<key>MaxKernel</key>
@@ -677,7 +677,7 @@
 				<key>Comment</key>
 				<string>V2.6.1</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BlueToolFixup</string>
 				<key>MaxKernel</key>
@@ -695,7 +695,7 @@
 				<key>Comment</key>
 				<string>V2.0.1</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelBluetoothFirmware</string>
 				<key>MaxKernel</key>
@@ -713,7 +713,7 @@
 				<key>Comment</key>
 				<string>V1.0.3</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VerbStub</string>
 				<key>MaxKernel</key>
@@ -767,7 +767,7 @@
 				<key>Comment</key>
 				<string>V1.0.2</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrightnessKeys</string>
 				<key>MaxKernel</key>
@@ -1112,7 +1112,7 @@
 			<key>FuzzyMatch</key>
 			<true/>
 			<key>KernelArch</key>
-			<string>Auto</string>
+			<string>x86_64</string>
 			<key>KernelCache</key>
 			<string>Auto</string>
 		</dict>
