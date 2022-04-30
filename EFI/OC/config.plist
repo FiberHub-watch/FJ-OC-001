@@ -639,7 +639,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>Ps2KeyboardDxe.efi</string>
+				<string>OpenUsbKbDxe.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
