@@ -560,7 +560,7 @@
 				<key>Comment</key>
 				<string>V1</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CServices</string>
 				<key>MaxKernel</key>
@@ -614,7 +614,7 @@
 				<key>Comment</key>
 				<string>V1.9.2</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Keyboard</string>
 				<key>MaxKernel</key>
@@ -632,7 +632,7 @@
 				<key>Comment</key>
 				<string>V1.9.2</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Mouse</string>
 				<key>MaxKernel</key>
@@ -668,7 +668,7 @@
 				<key>Comment</key>
 				<string>V2.6.5</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2C</string>
 				<key>MaxKernel</key>
@@ -686,7 +686,7 @@
 				<key>Comment</key>
 				<string>V1</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CHID</string>
 				<key>MaxKernel</key>
