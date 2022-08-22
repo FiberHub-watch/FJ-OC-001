@@ -611,7 +611,7 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
-			<false/>
+			<true/>
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
@@ -619,13 +619,13 @@
 			<key>PickerAttributes</key>
 			<integer>1</integer>
 			<key>PickerAudioAssist</key>
-			<false/>
+			<true/>
 			<key>PickerMode</key>
 			<string>Builtin</string>
 			<key>PickerVariant</key>
 			<string>Auto</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
@@ -723,7 +723,47 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Auxiliary</key>
+				<false/>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
 				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
+				<key>Name</key>
+				<string>CleanNvram</string>
+				<key>Path</key>
+				<string>CleanNvram.efi</string>
+				<key>RealPath</key>
+				<false/>
+				<key>TextMode</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Auxiliary</key>
+				<false/>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
+				<key>Name</key>
+				<string>CsrUtil</string>
+				<key>Path</key>
+				<string>CsrUtil.efi</string>
+				<key>RealPath</key>
+				<false/>
+				<key>TextMode</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Auxiliary</key>
+				<false/>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
