@@ -88,7 +88,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>11. Screen Freeze after waking 309842</string>
+				<string>11. Fix Sleep</string>
 				<key>Enabled</key>
 				<false/>
 				<key>Path</key>
