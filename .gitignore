@@ -475,3 +475,5 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/macos,jetbrains,jetbrains+all,jetbrains+iml,phpstorm,phpstorm+all,phpstorm+iml,windows,linux
 *.CHK
 *.zip
+*.txt
+System Volume Information/WPSettings.dat
