@@ -74,7 +74,7 @@
 				<key>Comment</key>
 				<string>8. Fixing Trackpads</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-XOSI.aml</string>
 			</dict>
@@ -82,7 +82,7 @@
 				<key>Comment</key>
 				<string>10. Instant Wake Patch</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-GPRW.aml</string>
 			</dict>
@@ -90,7 +90,7 @@
 				<key>Comment</key>
 				<string>11. Screen Freeze after waking 309842</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-HPET.aml</string>
 			</dict>
@@ -98,7 +98,7 @@
 				<key>Comment</key>
 				<string>12. Fixing NVRAM</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-PMC.aml</string>
 			</dict>
@@ -106,7 +106,7 @@
 				<key>Comment</key>
 				<string>13. Fixing SMBus support</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-SBUS-MCHC.aml</string>
 			</dict>
@@ -114,7 +114,7 @@
 				<key>Comment</key>
 				<string>что-то с датчиком освещения. не знаю</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-ALS0.aml</string>
 			</dict>
@@ -122,7 +122,7 @@
 				<key>Comment</key>
 				<string>???</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-BRLK.aml</string>
 			</dict>
@@ -130,7 +130,7 @@
 				<key>Comment</key>
 				<string>???</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-RHUB.aml</string>
 			</dict>
@@ -138,7 +138,7 @@
 				<key>Comment</key>
 				<string>???</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-UIAC.aml</string>
 			</dict>
